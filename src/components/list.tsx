@@ -1,7 +1,7 @@
 import { todo } from "@/lib/schema/todo"
 import { error } from "console"
 
-/*const getdata=async()=>{
+const getdata=async()=>{
     
     try{
         const res1=await fetch("http://localhost:3000/api/todo")//@/api/todo http://localhost:3000/api/todo
@@ -19,7 +19,7 @@ import { error } from "console"
     /*if(!res.ok)//check if api fail to fetch
     {
         throw new Error("failed to fetch")
-    }
+    }*/
 
 const List=async()=>
 {
@@ -39,5 +39,5 @@ const List=async()=>
     }
         </>
     )
-}*/
-
+}
+}
