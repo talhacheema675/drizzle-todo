@@ -1,5 +1,5 @@
 import { db } from "@/lib/drizzle"
-import { todolist } from "@/lib/schema/todo"
+import { todolistnew } from "@/lib/schema/todo"
 const addval=async(impt:string)=>{
     //et inpt="hello adil"
     console.log(`the value passeed: ${impt}`)
