@@ -20,6 +20,7 @@ const getdata=async()=>{
     {
         throw new Error("failed to fetch")
     }*/
+}
 
 const List=async()=>
 {
@@ -40,4 +41,4 @@ const List=async()=>
         </>
     )
 }
-}
+export default List
