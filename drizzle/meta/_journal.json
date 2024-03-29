@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703967876985,
+      "tag": "0000_brainy_guardsmen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703968180553,
+      "tag": "0001_large_frightful_four",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703968931509,
+      "tag": "0002_chief_mordo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1703969169794,
+      "tag": "0003_slim_peter_parker",
+      "breakpoints": true
+    }
+  ]
+}
